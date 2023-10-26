@@ -1,2 +1,2 @@
-# CodeScanGPT
-An experimental Static Application Security Scanner built on GPT and the OpenAI api.
+# CodeScanGPT-private
+SAST Scanner utilizing GPT to find vulnerabilities
