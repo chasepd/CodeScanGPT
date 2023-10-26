@@ -1,2 +1,2 @@
-# CodeScanGPT-private
-SAST Scanner utilizing GPT to find vulnerabilities
+# CodeScanGPT
+SAST Scanner utilizing GPT to find vulnerabilities. Currently only scans Python.
